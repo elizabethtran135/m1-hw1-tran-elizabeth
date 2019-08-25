@@ -1,0 +1,23 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+article, aside, details, figcaption, figure, footer, header, main, nav, section, summary {
+    display:block;
+}
+body {
+  background-color: lightblue;
+  text-align: center;
+  margin-top: 12%;
+}
+h1, h2, h3, h4 {
+  font-family: monospace;
+  margin: 3% 0;
+  color: darkgreen;
+}
+p, ul li {
+  font-family: sans-serif;
+  color: purple;
+}
